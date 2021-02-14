@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gene-hightower/message-transfer-agent/issues"
   },
-  "homepage": "https://github.com/gene-hightower/message-transfer-agent#readme"
+  "homepage": "https://github.com/gene-hightower/message-transfer-agent#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
 }
