@@ -1,0 +1,24 @@
+{
+  "name": "message-transfer-agent",
+  "version": "1.0.0",
+  "description": "Send a message using SMTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gene-hightower/message-transfer-agent.git"
+  },
+  "keywords": [
+    "SMTP",
+    "MTA",
+    "RFC-5321"
+  ],
+  "author": "Gene Hightower <gene.hightower@digilicious.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gene-hightower/message-transfer-agent/issues"
+  },
+  "homepage": "https://github.com/gene-hightower/message-transfer-agent#readme"
+}
